@@ -167,7 +167,7 @@ const Home = (props: HomeProps) => {
   return (
    
     <Container>
-       <img src={logo} width={"100px"} style={{marginTop: 40}}/>
+       <img src={logo} width={"100px"} style={{marginTop: 40}} alt={"logo"}/>
       <Container maxWidth="xs" style={{ position: 'relative', marginTop: 350
    }}>
         <Paper
